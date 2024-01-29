@@ -4,7 +4,10 @@
 
 + kmp.r KMP算法
 + baoli.r 暴力匹配算法
+<<<<<<< HEAD
 + run.r 运行测试
+=======
+>>>>>>> 98401bbde630362c13b58d9ac3964a1b42de1270
 
 [用R语言实现字符串快速匹配算法KMP](http://blog.fens.me/r-kmp/)
 

@@ -12,6 +12,7 @@ baoli_match(txt,"ABD",1,LOGGER=TRUE)
 source("./kmp.r")
 kmp_next("ABC")
 kmp_next("ABCCABB")
+
 txt<-"ABCCADZABCCABBC"
 pattern<-"ABCCABB"
 kmp_match(txt,pattern,LOGGER=TRUE)
