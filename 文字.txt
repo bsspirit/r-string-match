@@ -1,0 +1,1534 @@
+R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。
+
+R语言作为统计学一门语言，一直在小众领域闪耀着光芒。直到大数据的爆发，R语言变成了一门炙手可热的数据分析的利器。随着越来越多的工程背景的人的加入，R语言的社区在迅速扩大成长。现在已不仅仅是统计领域，教育，银行，电商，互联网….都在使用R语言。
+
+要成为有理想的极客，我们不能停留在语法上，要掌握牢固的数学，概率，统计知识，同时还要有创新精神，把R语言发挥到各个领域。让我们一起动起来吧，开始R的极客理想。
+
+图书推荐
+图书出版《R的极客理想-工具篇》
+
+图书出版《R的极客理想-高级开发篇》
+
+图书出版《R的极客理想-量化投资篇》
+
+R基础知识
+R是最值得学习的编程语言        [视频购买]  [试看]
+
+R语言知识体系概览        [视频购买]  [试看]
+
+吐槽R的未来 – 统计圈群聊
+
+R的历史版本安装Ubuntu
+
+R基础课
+
+fortunes 记录R语言的大智慧
+
+formatR代码自动化排版
+
+多人在线协作R开发RStudio Server
+
+R和JSON的傻瓜式编程
+
+R语言的高质量图形渲染库Cairo
+
+caTools一个奇特的工具集
+
+miniCRAN离线安装R的依赖库
+
+R语言中的配置管理yaml
+
+R数据处理
+用R语言把数据玩出花样
+
+掌握R语言中的apply函数族
+
+超高性能数据处理包data.table
+
+R语言字符串处理包stringr
+
+R语言中文分词包jiebaR
+
+用R语言把汉字转拼音pinyin
+
+R语言高效的管道操作magrittr
+
+R语言时间序列基础库zoo
+
+可扩展的时间序列xts
+
+plot.xts时间序列可视化
+
+R语言轻巧的时间包hms
+
+R语言数据科学新类型tibble
+
+用R语言实现数据离散化
+
+R语言统计特征描述包descriptr
+
+用R语言填充缺失值mice
+
+R数据库访问
+用RODBC连接数据库
+
+RODBC在Linux上配置
+
+RMySQL数据库编程指南
+
+RPostgreSQL数据库编程指南
+
+RSQLite数据库编程指南
+
+R利剑NoSQL系列文章
+
+RHadoop实践系列文章
+
+R算法实现
+用R解析Mahout用户推荐协同过滤算法(UserCF)
+
+PageRank算法R语言实现
+
+R语言中的遗传算法
+
+R语言实现聚类kmeans
+
+用R语言实现密度聚类dbscan查找文本串中所有匹配模式串的字符
+
+R语言实现46种距离算法
+
+用R语言实现信息度量
+
+信息熵的时间度量模型muti
+
+用R语言解读牛顿冷却定律
+
+知识图谱：社区发现算法leiden
+
+知识图谱：最短路径算法Dijkstra
+
+知识图谱：最短路径算法Bellman-Ford
+
+R高性能计算
+R语言本地缓存memoise
+
+R语言性能监控工具Rprof
+
+R语言性能可视化lineprof
+
+OpenBlas让R的矩阵计算加速
+
+R语言跨界调用C++
+
+当R语言遇上Docker
+
+R网络开发
+R语言服务器程序 Rserve详解
+
+Rserve的R语言客户端RSclient
+
+Rserve与Java的跨平台通信
+
+Rsession让Java调用R更简单
+
+解惑rJava R与Java的高速通道
+
+Nodejs与R跨平台通信
+
+FastRWeb跑在Web上的R程序
+
+R语言构建websocket服务器
+
+在AWS上部署免费的Shiny应用
+
+R的数学基础
+R语言中的数学计算
+
+R语言中的矩阵计算
+
+概率基础和R语言
+
+常用连续型分布介绍及R语言实现
+
+用R语言解读统计检验-T检验
+
+用R语言解读统计检验-F检验
+
+用R语言解读统计检验-卡方检验
+
+R语言的导数计算
+
+抽样三步曲之一：用R语言进行概率抽样sampling
+
+抽样三步曲之二：用R语言进行抽样估计
+
+线性和非线性的最小二乘回归
+
+R语言解读一元线性回归模型
+
+R语言解读多元线性回归模型
+
+R语言解读自回归模型
+
+用R语言10分钟上手神经网络模型
+
+R和医疗
+用R语言获取全球新冠疫情数据
+
+用R语言解读传染病模型
+
+EpiModel快速上手传染病模型
+
+用R模拟本次北京新冠疫情
+
+R和金融
+用R语言开始量化投资        [视频购买]
+
+R语言为量化而生        [视频购买]
+
+R语言量化投资常用包总结
+
+用RHive从历史数据中提取逆回购信息        [视频购买]  [试看]
+
+二条均线打天下        [视频购买]  [试看]
+
+均值回归，逆市中的投资机会        [视频购买]  [试看]
+
+R语言构建追涨杀跌量化交易模型
+
+R语言构建配对交易量化模型
+
+R语言解读资本资产定价模型CAPM
+
+用数据解读摩羯智投
+
+用R语言解读凯利公式
+
+R游戏之旅
+R语言键盘和鼠标事件
+
+R语言游戏之旅 贪食蛇入门
+
+R语言游戏框架设计
+
+R语言游戏之旅 游戏2048
+
+发布gridgame游戏包
+
+R应用-每日中国天气
+R语言天气可视化应用
+
+R包开发每日中国天气
+
+R包开发
+R语言3.1版本新特性
+
+开发自己的R包sayHello
+
+在巨人的肩膀前行 催化R包开发
+
+用R进行文件系统管理
+
+撬动R内核的高级工具包pryr
+
+揭开R语言中环境空间的神秘面纱
+
+解密R语言函数的环境空间
+
+R面向对象编程
+R语言面向对象编程
+
+R语言基于S3的面向对象编程
+
+R语言基于S4的面向对象编程
+
+R语言基于RC的面向对象编程
+
+R语言基于R6的面向对象编程查找文本串中所有匹配模式串的字符
+
+用R写文档
+用R编写markdown格式文档
+
+在rmarkdown中编写数学公式
+
+R密码学
+R语言中的编码和解码
+
+R语言创建哈希摘要digest
+
+R语言进行非对称加密RSA
+
+R语言进行AES对称加密
+
+用R语言配合openssl命令行生成和管理x509证书
+
+用R语言实现RSA+AES混合加密
+
+打赏作者
+
+ Post Views: 5,762
+Edit
+
+0
+Article Rating
+ Subscribe 
+You are logged in as Conan Zhang | Log out
+Conan Zhang
+
+
+{}[+]
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+135 COMMENTS
+Oldest 
+trackback
+多人在线协作R开发RStudio Server | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+开发自己的R包sayHello | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+在巨人的肩膀前行 催化R包开发 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+Rserve与Java的跨平台通信 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+解惑rJava R与Java的高速通道 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+Nodejs与R跨平台通信 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R和JSON的傻瓜式编程 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+RMySQL数据库编程指南 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言的高质量图形渲染库Cairo | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+FastRWeb跑在Web上的R程序 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言服务器程序 Rserve详解 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+Rserve的R语言客户端RSclient | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+Rsession让Java调用R更简单 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+fortunes 记录R语言的大智慧 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+caTools一个奇特的工具集 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言时间序列基础库zoo | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+可扩展的时间序列xts | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+plot.xts时间序列可视化 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言本地缓存memoise | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言性能监控工具Rprof | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+weakish
+weakish
+ 10 years ago
+真棒。 转载了一下（有回链）。如有不妥，请告知。
+
+http://segmentfault.com/a/1190000000340158
+
+0
+ Reply
+Conan Zhang
+Conan Zhang
+ Reply to  weakish
+ 10 years ago
+挺好的！:-)
+
+0
+ Reply
+trackback
+R语言性能可视化lineprof | 粉丝日志查找文本串中所有匹配模式串的字符
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+formatR代码自动化排版 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言构建websocket服务器 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+概率基础和R语言 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+常用概率分布, 密度函数及R语言实现 | 粉丝日志
+ 10 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R是最值得学习的编程语言 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+吐槽R的未来 – 统计圈群聊 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R的历史版本安装Ubuntu | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言面向对象编程 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+撬动R内核的高级工具包pryr | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言基于S3的面向对象编程 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言基于S4的面向对象编程 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言中的数学计算 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言基于RC的面向对象编程 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+揭开R语言中环境空间的神秘面纱 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+用R进行文件系统管理 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言键盘和鼠标事件 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+解密R语言函数的环境空间 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言游戏之旅 贪食蛇入门 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言游戏框架设计 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+Gavin
+Gavin
+ 9 years ago
+博主，最近想实现以下统计方面的应用，不知道R语言是不是真的实用，本人会java，到后期会不会遇到过不去的坎？
+
+0
+ Reply
+Conan Zhang
+Conan Zhang
+ Reply to  Gavin
+ 9 years ago
+1. 实用不实用自己用了才知道，我说也不算。
+2. 过不坎就是数学，如果你高数，线数，概率，统计都不怎么样，而且不打算花2年以上的时间补习，那么很快就会遇到这个瓶颈。
+
+0
+ Reply
+Sunday
+Sunday
+ Reply to  Conan Zhang
+ 9 years ago
+刚准备入门学习的人。。。文科生看到这个评论，呆了·~~不知是否该继续下去了~
+
+0
+ Reply
+Conan Zhang
+Conan Zhang
+ Reply to  Sunday
+ 9 years ago
+数学是所有人的痛，理科生和文科生对高数的敏感程度是一样的。
+
+0
+ Reply
+Kurisu Chan
+Kurisu Chan
+ Reply to  Conan Zhang
+ 8 years ago
+那些理论….对理工学院数学系的学生…也一样….常常让我感觉, 自己一定不是数学系毕业的….
+
+所以踏踏实实接受再教育和自我教育吧=w=
+
+0
+ Reply
+Conan Zhang
+Conan Zhang
+ Reply to  Kurisu Chan
+ 8 years ago
+我们都是自我再教育。
+
+0
+ Reply
+A.J.
+A.J.
+ Reply to  Conan Zhang
+ 8 years ago
+这话治好了我多年来作为前文科生的忐忑……
+
+0
+ Reply查找文本串中所有匹配模式串的字符
+Conan Zhang
+Conan Zhang
+ Reply to  A.J.
+ 8 years ago
+哈哈。
+
+0
+ Reply
+Ryo Eng
+Ryo Eng
+ Reply to  Conan Zhang
+ 8 years ago
+柯南兄，咱得学习一下。。。y(n_n)y
+
+0
+ Reply
+Conan Zhang
+Conan Zhang
+ Reply to  Ryo Eng
+ 8 years ago
+嘿嘿
+
+0
+ Reply
+trackback
+R语言游戏之旅 游戏2048 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+发布gridgame游戏包 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+图书出版《R的极客理想-工具篇》 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言知识体系概览 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言3.1版本新特性 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言天气可视化应用 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R包开发每日中国天气 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+trackback
+R语言基于R6的面向对象编程 | 粉丝日志
+ 9 years ago
+[…] R的极客理想系列文章，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。 […]
+
+0
+ Reply
+Load More Comments
+站内导航
+R的极客理想系列文章
+跨界知识聚会系列文章
+算法为王系列文章
+Prolog语言知识推理系列文章
+用IT技术玩金融系列文章
+经济拼图系列文章
+从零开始nodejs系列文章
+AngularJS体验式编程系列文章
+ubuntu实用工具系列文章
+架构师的信仰系列文章
+解构数据平台系列文章
+比特币吸金之道系列文章
+Hadoop家族系列文章
+RHadoop实践系列文章
+R利剑NoSQL系列文章
+创业者的囧境系列文章
+关于站长
+最新文章
+用R语言把汉字转拼音pinyin
+2023 R语言开发者日：用AI选基金构建自己的投资组合
+2023 微软技术直通车：用R语言一步一步学懂机器学习
+2023 微软Global AI : R语言中的机器学习
+用R语言10分钟上手神经网络模型
+用R语言实现RSA+AES混合加密
+用R语言配合openssl命令行生成和管理x509证书
+2022 中国R会：用R语言解读传染病模型
+R语言进行AES对称加密
+R语言进行非对称加密RSA
+R语言创建哈希摘要digest
+R语言中的编码和解码
+2022 微软Build After Party：文档革命：用R语言进行可重复性文档编写
+RSQLite数据库编程指南
+在rmarkdown中编写数学公式
+用R编写markdown格式文档
+知识图谱：最短路径算法Bellman-Ford
+知识图谱：最短路径算法Dijkstra
+知识图谱：社区发现算法leiden
+用R模拟本次北京新冠疫情
+用R语言获取全球新冠疫情数据
+EpiModel快速上手传染病模型
+用R语言解读传染病模型
+2022 微软Build After Party：用R语言解读传染病模型
+2021 微软Ignite Post Watching Part：用R语言进行量化文本分析
+2021 微软 Ignite-聊聊Azure上的AI和Data
+prolog递归程序设计
+Prolog软件包管理器
+用prolog推理家族关系
+prolog语言安装
+2020微软Virtual Azure Community Day-异常检测算法
+打通Linux上的ODBC
+用RODBC连接数据库
+RPostgreSQL数据库编程指南
+在Ubuntu上安装PostgreSQL
+Nifi从安装开始
+DP-900认证考试攻略数据库编程指南数据库编程指南
+AI-900认证考试攻略
+2020人民邮电出版社金融科技选题研讨会-数据分析领域正在发生的变革
+洋垃圾禁止进口目录整理
+最新评论
+芋泥苑 on 2023 微软技术直通车：用R语言一步一步学懂机器学习
+Sherry on AZ-900认证考试攻略
+vorm on 吐槽R的未来 – 统计圈群聊
+2023 微软技术直通车：用R语言一步一步学懂机器学习 | 粉丝日志 on 跨界知识聚会系列文章
+2023 微软Global AI : R语言中的机器学习 | 粉丝日志 on 跨界知识聚会系列文章
+用R语言10分钟上手神经网络模型 | 粉丝日志 on R的极客理想系列文章
+R语言进行AES对称加密 | 粉丝日志 on 用R语言实现RSA+AES混合加密
+Daviana on R语言解读多元线性回归模型
+R语言进行非对称加密RSA | 粉丝日志 on 用R语言实现RSA+AES混合加密
+用R语言实现RSA+AES混合加密 | 粉丝日志 on 用R语言配合openssl命令行生成和管理x509证书
+用R语言实现RSA+AES混合加密 | 粉丝日志 on R的极客理想系列文章
+R语言进行非对称加密RSA | 粉丝日志 on R语言中的编码和解码
+R语言进行非对称加密RSA | 粉丝日志 on 用R语言配合openssl命令行生成和管理x509证书
+用R语言配合openssl命令行生成和管理x509证书 | 粉丝日志 on R语言进行非对称加密RSA
+用R语言配合openssl命令行生成和管理x509证书 | 粉丝日志 on R语言进行AES对称加密
+排行榜
+用Hadoop构建电影推荐系统 (13,176)
+bower解决js的依赖管理 (6,858)
+Hadoop家族学习路线图 (6,579)
+掌握R语言中的apply函数族 (6,493)
+Socket.io在线聊天室 (6,225)
+Nodejs开发框架Express3.0开发手记–从零开始 (5,264)
+R语言解读多元线性回归模型 (4,874)
+grunt让Nodejs规范起来 (4,188)
+AI-900认证考试攻略 (4,165)
+AZ-900认证考试攻略 (3,988)
+在Ubuntu上安装PPTP VPN服务 (3,969)
+R语言数据科学新类型tibble (3,908)
+外汇国际收支交易编码整理 (3,870)
+用Nodejs连接MySQL (3,760)
+Mahout推荐算法API详解 (3,749)
+用Maven构建Hadoop项目 (3,617)
+Nginx反向代理Nodejs – log4js日志IP显示错误 (3,434)
+Nodejs异步流程控制Async (3,388)
+新公司注册流程 (3,387)
+Nodejs实现websocket的4种方式 (3,259)
++
+粉丝日志
+跨界的IT博客| R, 数据科学, 金融量化, Nodejs, Hadoop家族,区块链
+R语言实践 »用R语言解读传染病模型
+首页@微软:R语言体系
+Posted:
+Jun 27, 2022
+Tags:
+R
+SI
+SIR
+传染病
+Comments:
+3 Comments
+Edit
+Edit entry
+用R语言解读传染病模型
+算法为王系列文章，涵盖了计算机算法，数据挖掘(机器学习)算法，统计算法，金融算法等的多种跨学科算法组合。在大数据时代的背景下，算法已经成为了金字塔顶的明星。一个好的算法可以创造一个伟大帝国，就像Google。
+
+算法为王的时代正式到来….
+
+关于作者：
+
+张丹, 分析师/程序员/Quant: R,Java,Nodejs
+blog: http://blog.fens.me
+email: bsspirit@gmail.com
+转载请注明出处：
+http://blog.fens.me/r-infectious-disease
+
+
+
+前言
+
+传染病学是人们在不断地同危害人类健康严重的疾病作斗争中发展起来的，新冠疫情已经持续三年了，近期在北京和上海两个超大城市，还在不停的变种和传播，居家办公，每天核酸，都已经变成了生活的常态。
+
+好奇心驱使我要研究一下传染病，为什么疫情会有这么大的传染性，如果不做防控会怎么样。结合传染病学的专业知识，通过R语言的技术手段，彻底明白了传染病传播的一些底层原理。
+
+由于本人非传染病专业，文中关于传染病的专业内容大都从网上汇集和再整理，当出现本文描述与教课书不符时，请以专业教材为准。
+
+目录
+
+传染病动力学介绍
+自由增长模型
+SI模型
+SIS模型
+SIR模型
+1. 传染病动力学介绍
+在全球抗击新冠肺炎疫情的过程中，传染病动力学模型发挥了巨大的作用。传染病动模型，根据传染病的传播速度不同，空间范围各异，传播途径多样，动力学机理等各种因素，对传染病模型按照传染病的类型划分为 SI，SIR，SIRS，SEIR 模型。
+
+对传染病的研究方法主要有四种：描述性研究、分析性研究、实验性研究和理论性研究。传染病动力学是对传染病进行理论性定量研究的一种重要方法。它是根据种群生长的特性，疾病的发生及在种群内的传播、发展规律，以及与之有关的社会等因素，建立能反映传染病动力学特性的数学模型。通过对模型动力学性态的定性、定量分析和数值模拟，来显示疾病发展程，寻找对期预防和控制的最优策略。
+
+2. 自由增长模型
+自由增长模型，是一种条件最简单的传染病模型，模型整体上呈现指数增长趋势，对传染病传播率ρ非常敏感。模型适合于古代医疗条件不发达、不懂得对病人进行防疫隔离时，发生恶性瘟疫的情形。
+
+
+
+模型假设：
+
+I(t)为t时刻的感染者人数，I(t)是连续、可微函数。
+ρ是常数，为每个病人每天有效接触的人数，即足以使人致病的接触， ρ >0
+模型构建：
+
+从t到t+Δt的时间里，病人增加的人数为
+I(t+Δt) – x(t) = ρ * I(t)* Δt
+模型求解：
+
+当t=0时，初始病人人数为 I0 得，
+
+𝑑𝐼/𝑑𝑡= ρ * I
+I(0) = I0
+R语言代码实现
+
+
+# 加载程序包
+> library(deSolve)  # 用于计算积分
+> library(magrittr) 
+> library(ggplot2)
+> library(reshape2)
+> setwd("C:/work/R/covid19")
+定义2个公共函数，draw()函数用于画图，rbinddf()函数用于list转型为data.frame。
+
+
+# 画图函数
+> draw<-function(sdf,title="SIR模型",ylab="感染人数",xlab="时间周期",ylog=FALSE){
++   g<-ggplot(data = sdf, mapping = aes(x=time,y=value,colour=type))
++   g<-g+geom_line() + geom_point()                                   #绘制线图和点图
++   g<-g+scale_shape_manual(values = c(21,23))                        #自定义点形状
++   if(ylog) g<-g+scale_y_log10()
++   g<-g+ggtitle(title)+xlab(xlab)+ylab(ylab)
++   g
++ }
+
+# 按行合并
+> rbinddf<-function(ldf=list(),names=NULL){
++   n <- length(ldf)
++   res <- NULL
++   if(n>0){
++     for (i in seq(n)) {
++       if(!is.null(names)){
++         type <- names[i]
++       }
++       res <- rbind(res, data.frame(ldf[[i]],type=type))
++     }
++   }
++   return(res)
++ }
+定义自由增长模型内核函数
+
+
+# case1 自由增长模型
+> calc1 <- function(rio = 0.3,         # 传染率系数,每个病人每天传染的人数
++                   times = 0:20,      # 病情发展时间
++                   I = 1) {           # 已感染者1人
++   # 公式
++   s_equations <- function(times, vars, params) {
++     with(as.list(c(vars, params)), {
++       dI <- rio * I
++       return(list(dI))
++     })
++   }
++   
++   # 解微分方程
++   ode(
++     func = s_equations,
++     y = c(I = I),
++     times = times,
++     parms = c(rio = rio)
++   ) %>%  as.data.frame
++ }
+分别计算当ρ(rio) = 0.3, 0.25, 0.2 时的感染者人员。
+
+
+> s1 <- calc1(rio = 0.3)
+> s2 <- calc1(rio = 0.25)
+> s3 <- calc1(rio = 0.2)
+
+# 合并3组结果
+> sdf1<-rbinddf(list(s1,s2,s3),names=c("s1","s2","s3"))
+> head(sdf1)         # 查看数据集
+  time        I type
+1    0 1.000000   s1
+2    1 1.349861   s1
+3    2 1.822121   s1
+4    3 2.459609   s1
+5    4 3.320123   s1
+6    5 4.481699   s1
+把模拟进行可视化展示。
+
+
+> names(sdf1)<-c("time","value","type")
+> draw(sdf1,title="自由增长模型",ylab="感染人数",xlab="时间周期")
+输出如图所示
+
+
+自由增长模型，并不符合实际情况。在病人有效接触的人群中，有健康人也有病人，而其中只有健康人才可以被传染为病人，所以我们接下来介绍的SI模型，就区别2类人群。
+
+3. SI模型
+SI模型，适用于只有易感者和患病者两类人群，且不会反复发作的疾病。人群分为易感染者（Susceptible）和已感染者（Infective）两类（取两个词的首字母，称之为SI模型）。
+
+易感者与患病者有效接触即被感染，变为患病者，无潜伏期、无治愈情况、无免疫力。SI模型对传染病传播率ρ非常敏感，而且只要我们把每个病人、每天接触的人数有效降低，传染病的传染速度就会变得非常慢。只要防疫力度够大，控制住传染病是完全可能的。这种模型比较适合，被传染后无法恢复健康的，比如HIV等情形。
+
+
+
+模型假设：
+
+I(t)为t时刻的感染者人数，I(t)是连续、可微函数。
+ρ是常数，为每个病人每天有效接触的人数，即足以使人致病的接触， ρ >0
+在疾病传播期内所考察地区的总人数不变，不考虑生死和迁移。
+当病人与健康者有效接触时，使健康者受感染变为病人
+模型构建：
+已感染人数为 N * i(t)，所有已感染人每天有效接触人数为 ρ * N * i(t)，其中被传染的易感染人的比例 s(t)，因此每天增加的感染者人数为 ρ * N * i(t) * s(t)。
+
+N：总人数，不变
+s(t)：t时刻易感染者在总人数中所占比例。
+i(t)：t时刻已感染者在总人数中所占比例。
+ρ是常数，每个病人每天有效接触的平均人数是常数，称为日接触率， ρ >0
+从t到t+Δt的时间里，病人增加的人数为
+
+N * (i(t+Δt)– i(t)) = ρ *  i(t) * s(t) * Δt
+模型求解：
+
+N总人数不变，因此 s(t) + i(t) = 1
+当t=0时，初始病人占比为 i0 得，
+
+𝑑𝑖/𝑑𝑡= ρ * i * (1-i)
+i(0) = 𝑖0
+编写模型内核函数。
+
+
+> calc2 <- function(rio = 0.3,                # 接触率,传染率系数
++                  times = 0:100,             # 病情发展时间
++                  i = 0.000001) {            # 已感染者,初始占比：百万分之一
++   # 公式
++   si_equations <- function(time, vars, params) {
++     with(as.list(c(vars, params)), {
++       di <- rio * i * (1 - i)
++       return(list(di))
++     })
++   }
++   
++   # 解微分方程
++   ode(
++     func = si_equations,  
++     y = c(i = i),         
++     times = times,        
++     parms = c(rio = rio)
++   ) %>%  as.data.frame
++ }
+分别计算当传播率ρ(rio)为0.3，0.25，0.2，0.15，0.12时的结果，已感染者比例𝑖0 =0.000001(百万分之一)
+
+
+> si1 <- calc2(rio = 0.3)
+> si2 <- calc2(rio = 0.25)
+> si3 <- calc2(rio = 0.2)
+> si4 <- calc2(rio = 0.15)
+> si5 <- calc2(rio = 0.12)
+> sdf2<-rbinddf(list(si1,si2,si3,si4,si5),
++              names=c("si1","si2","si3","si4","si5"))
+> names(sdf2)<-c("time","value","type")
+
+# 画图
+> draw(sdf2,title="SI模型",ylab="感染人数占比",xlab="时间周期")
+
+4. SIS模型
+人群分为易感染者（Susceptible）和已感染者（Infective）两类，已感染者（Infective）可以被治愈，变成易感染者（Susceptible）（称之为SIS模型）。SIS模型与SI模型的差异，在于SIS模型假设已感染者（Infective）可以被治愈，重新变成易感染者（Susceptible），比如季节性流感等。
+
+
+1、传染的速度，取决于病人的传染速度，与病人的治愈速度之间的相对水平，如果病人的治愈速度，大于病人的传染速度，即μ>ρ，那么该传染病最终会消失；
+2、即便病人的传染速度高于治愈速度，最终也只有一部分人群会被感染；
+3、最终感染的人群比例，为1-1/sigma，sigma = ρ / μ ，sigma是整个传染期内每个病人的有效接触人数，可以理解为病人在整个生病期内，接触的总人数。
+
+模型假设
+
+在疾病传播期内所考察地区的总人数不变，不考虑生死和迁移。
+当病人与健康者有效接触时，使健康者受感染变为病人。
+人被全部治愈，所需要的天数为1/μ，为传染病的平均传染期。
+模型构建：
+已感染人数为 N * i(t)，所有已感染人每天有效接触人数为 ρ * N * i(t)，其中被传染的易感染人的比例 s(t)，因此每天增加的感染者人数为 ρ * N * i(t) * s(t)。被治愈的人数为 μ * N * i(t)。
+
+N：总人数，不变
+s(t)：t时刻易感染者在总人数中所占比例。
+i(t)：t时刻已感染者在总人数中所占比例。
+ρ是常数，每个病人每天有效接触的平均人数是常数，为日接触率， ρ >0
+μ是常数，每天被治愈的病人数占病人总数的比例，为日治愈率
+从t到t+Δt的时间里，病人增加的人数为
+
+N * (i(t+Δt)– i(t)) = ρ *  i(t) * s(t) * Δt – μ * N * i(t) * Δt
+模型求解：查找文本串中所有匹配模式串的字符
+
+N总人数不变，因此 s(t) + i(t) = 1
+当t=0时，初始病人占比为 i0 得，
+
+𝑑𝑖/𝑑𝑡= ρ * i * (1-i) – μ * i
+i(0) = 𝑖0
+编写模型内核函数。
+
+
+> calc3 <- function(rio = 0.3,                 # 接触率,传染率系数
++                   mu=0.1,                    # 治愈率
++                   times = 0:150,             # 病情发展时间
++                   i = 0.000001) {            # 已感染者初始占比：百万分之一
++   sis_equations<-function(time,vars,params){
++     with(as.list(c(vars,params)),{
++       di<-rio*i*(1-i)-mu*i
++       return(list(c(di)))
++     })
++   }
++   
++   ode(
++     func=sis_equations,
++     y=c(i=i),
++     times=times,
++     parms=c(rio=rio,mu=mu)
++   ) %>% as.data.frame()
++ }
+分别日接触率 ρ(rio) = 0.3、0.25、0.2、0.15、0.12，日治愈率 μ =0.1，已感染者比例 𝑖0 =0.000001(百万分之一)
+
+
+> sis1 <- calc3(rio = 0.27,mu=0.1)
+> sis2 <- calc3(rio = 0.25,mu=0.1)
+> sis3 <- calc3(rio = 0.20,mu=0.1)
+> sis4 <- calc3(rio = 0.15,mu=0.1)
+> sis5 <- calc3(rio = 0.12,mu=0.1)
+> sdf<-rbinddf(list(sis1,sis2,sis3,sis4,sis5),
++              names=c("sis1","sis2","sis3","sis4","sis5"))
+> names(sdf)<-c("time","value","type")
+> draw(sdf,title="SIS模型",ylab="感染人数占比",xlab="时间周期")
+
+5. SIR模型
+人群分为易感染者（Susceptible）和已感染者（Infective）和恢复者（Removed）三类（称之为SIR模型）。SIR模型与SIS模型的差异，在于SIR模型假设已感染者（Infective）被治愈后会具备免疫力，不会被感染，从而成为恢复者（Removed），SIR模型已经初步接近实际的传染病模型。
+
+
+模型假设：
+
+在疾病传播期内所考察地区的总人数不变，不考虑生死和迁移。
+当病人与健康者有效接触时，使健康者受感染变为病人。
+人被全部治愈，所需要的天数为1/μ，为传染病的平均传染期。
+模型构建：
+已感染人数为 N * i(t)，已感染人每天有效接触人数为 ρ * I(t)，被传染的易感染人的比例 S(t)/N，因此每天增加的感染者人数为 ρ * I(t) * S(t)/N，被治愈的人数为 μ * I(t)。
+
+N：总人数，不变
+S(t)：t时刻易感染者在总人数中所占比例。
+I(t)：t时刻已感染者在总人数中所占比例。
+R(t): t时刻恢复者在总人数中所占比例。
+ρ是常数，每个病人每天有效接触的平均人数是常数，为日接触率， ρ >0
+μ是常数，每天被治愈的病人数占病人总数的比例，为日治愈率
+从t到t+Δt的时间里，易感染者人数，已感染者人数，恢复者人数计算：
+
+
+# 易感染者人数计算
+S(t+ Δt) – S(t) = - ρ * I(t) * Δt/N   
+
+# 已感染者人数计算
+I(t+ Δt) – I(t) = ρ * I(t) * S(t) * Δt/N - μ * I(t) * Δt
+
+# 恢复者人数计算
+R(t+ Δt) – R(t) = μ * I(t) * Δt
+模型求解：
+
+N总人数不变，因此 s(t) + i(t) = 1
+当t=0时，初始病人占比为 i0 得，
+
+𝑑𝑆/𝑑𝑡= -ρ * I * S/N
+𝑑𝐼/𝑑𝑡= ρ * I * S/N – μ * I
+𝑑𝑟/𝑑𝑡= μ * I
+编写模型内核函数。
+
+
+> calc4 <- function(rio = 0.3,                 # 接触率，传染率系数
++                   mu=0.1,                    # 治愈率
++                   times = 0:150,             # 病情发展时间
++                   S=1000*1000*10,            # 易感染者1000万人
++                   I=10,                      # 已感染者10人
++                   R=5) {                     # 已移出者5人
++   sir_equations<-function(time,vars,params){
++     with(as.list(c(vars,params)),{
++       N<-S+I+R
++       dS<- -rio*I*S/N
++       dI<-rio*I*S/N - mu*I
++       dR<-mu*I
++       return(list(c(dS,dI,dR)))
++     })
++   }
++   ode(
++     func=sir_equations,
++     y=c(S=S,I=I,R=R),
++     times=times,
++     parms=c(rio=rio,mu=mu)
++   ) %>% as.data.frame()
++ }
+当日接触率ρ(rio) = 0.25，日治愈率 μ(mu) =0.1，易感染者S=1000*1000*10，已感染者 I=10，移出者R=100
+
+
+> sir1<-calc4(rio=0.25,mu=0.1,times=0:150,S=1000*1000*10,I=10,R=100)
+> head(sir1)
+  time        S        I        R
+1    0 10000000 10.00000 100.0000
+2    1  9999997 11.61831 101.0789
+3    2  9999994 13.49852 102.3324
+4    3  9999991 15.68299 103.7887
+5    4  9999986 18.22099 105.4808
+6    5  9999981 21.16971 107.4466
+> sdf4<-melt(sir1,id.vars = c("time"))
+> head(sdf4)
+  time variable    value
+1    0        S 10000000
+2    1        S  9999997
+3    2        S  9999994
+4    3        S  9999991
+5    4        S  9999986
+6    5        S  9999981
+> names(sdf4)<-c("time","type","value")
+> draw(sdf4,title="SIR模型",ylab="感染人数",xlab="时间周期")
+
+通过对传播病动力学的基本模型学习，让我了解了传染病的传播基本知识，使我更加坚信坚持“动态清零”的意义是重大的。文本以手写R代码实现模型为主，下一篇文章：用专业工具EpiModel玩转传染病模型
+
+参考文章：
+
+文章：https://zhuanlan.zhihu.com/p/104439779
+图书：《传染病动力学的数据建模与研究》
+文本完整的代码，已经上传github，可以自由下载使用：https://github.com/bsspirit/infect/blob/main/code/model.r
+
+转载请注明出处：
+http://blog.fens.me/r-infectious-disease
+
+打赏作者
+
+ Post Views: 1,027
+This entry was posted in R语言实践
+
+0
+Article Rating
+ Subscribe 
+You are logged in as Conan Zhang | Log out
+Conan Zhang
+
+
+{}[+]
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+3 COMMENTS
+Oldest 
+trackback
+2022 微软Build After Party：用R语言解读传染病模型 | 粉丝日志
+ 1 year ago
+[…] 在传染病领域，有4种最基本的传染病模型，分别是自由增长模型、SI模型、SIS模型、SIR模型，这4个模型，分别涉及到现实从得病到治愈再到得病等的病人的状态，通过状态转移人数在计算传播效率。这4个模型，都是可以通过微分方程进行求解的，所以我们可以手动撸代码来计算。具体使用可参考：用R语言解读传染病模型 。 […]
+
+0
+ Reply
+trackback
+EpiModel快速上手传染病模型 | 粉丝日志
+ 1 year ago
+[…] 用R语言解读传染病模型 […]
+
+0
+ Reply
+trackback
+2022 中国R会：用R语言解读传染病模型 | 粉丝日志
+ 1 year ago
+[…] 在传染病领域，有4种最基本的传染病模型，分别是自由增长模型、SI模型、SIS模型、SIR模型，这4个模型，分别涉及到现实从得病到治愈再到得病等的病人的状态，通过状态转移人数在计算传播效率。这4个模型，都是可以通过微分方程进行求解的，所以我们可以手动撸代码来计算。具体使用可参考：用R语言解读传染病模型 。 […]
+
+1
+ Reply
+站内导航
+R的极客理想系列文章
+跨界知识聚会系列文章
+算法为王系列文章
+Prolog语言知识推理系列文章
+用IT技术玩金融系列文章
+经济拼图系列文章
+从零开始nodejs系列文章
+AngularJS体验式编程系列文章
+ubuntu实用工具系列文章
+架构师的信仰系列文章
+解构数据平台系列文章
+比特币吸金之道系列文章
+Hadoop家族系列文章
+RHadoop实践系列文章
+R利剑NoSQL系列文章
+创业者的囧境系列文章
+关于站长
+最新文章
+用R语言把汉字转拼音pinyin
+2023 R语言开发者日：用AI选基金构建自己的投资组合
+2023 微软技术直通车：用R语言一步一步学懂机器学习
+2023 微软Global AI : R语言中的机器学习
+用R语言10分钟上手神经网络模型
+用R语言实现RSA+AES混合加密
+用R语言配合openssl命令行生成和管理x509证书
+2022 中国R会：用R语言解读传染病模型
+R语言进行AES对称加密
+R语言进行非对称加密RSA
+R语言创建哈希摘要digest
+R语言中的编码和解码
+2022 微软Build After Party：文档革命：用R语言进行可重复性文档编写
+RSQLite数据库编程指南
+在rmarkdown中编写数学公式
+用R编写markdown格式文档
+知识图谱：最短路径算法Bellman-Ford
+知识图谱：最短路径算法Dijkstra
+知识图谱：社区发现算法leiden
+用R模拟本次北京新冠疫情
+用R语言获取全球新冠疫情数据
+EpiModel快速上手传染病模型
+用R语言解读传染病模型
+2022 微软Build After Party：用R语言解读传染病模型
+2021 微软Ignite Post Watching Part：用R语言进行量化文本分析
+2021 微软 Ignite-聊聊Azure上的AI和Data
+prolog递归程序设计
+Prolog软件包管理器
+用prolog推理家族关系
+prolog语言安装
+2020微软Virtual Azure Community Day-异常检测算法
+打通Linux上的ODBC
+用RODBC连接数据库
+RPostgreSQL数据库编程指南
+在Ubuntu上安装PostgreSQL
+Nifi从安装开始
+DP-900认证考试攻略
+AI-900认证考试攻略
+2020人民邮电出版社金融科技选题研讨会-数据分析领域正在发生的变革
+洋垃圾禁止进口目录整理
+最新评论
+芋泥苑 on 2023 微软技术直通车：用R语言一步一步学懂机器学习
+Sherry on AZ-900认证考试攻略
+vorm on 吐槽R的未来 – 统计圈群聊
+2023 微软技术直通车：用R语言一步一步学懂机器学习 | 粉丝日志 on 跨界知识聚会系列文章
+2023 微软Global AI : R语言中的机器学习 | 粉丝日志 on 跨界知识聚会系列文章
+用R语言10分钟上手神经网络模型 | 粉丝日志 on R的极客理想系列文章
+R语言进行AES对称加密 | 粉丝日志 on 用R语言实现RSA+AES混合加密
+Daviana on R语言解读多元线性回归模型
+R语言进行非对称加密RSA | 粉丝日志 on 用R语言实现RSA+AES混合加密
+用R语言实现RSA+AES混合加密 | 粉丝日志 on 用R语言配合openssl命令行生成和管理x509证书
+用R语言实现RSA+AES混合加密 | 粉丝日志 on R的极客理想系列文章
+R语言进行非对称加密RSA | 粉丝日志 on R语言中的编码和解码
+R语言进行非对称加密RSA | 粉丝日志 on 用R语言配合openssl命令行生成和管理x509证书
+用R语言配合openssl命令行生成和管理x509证书 | 粉丝日志 on R语言进行非对称加密RSA
+用R语言配合openssl命令行生成和管理x509证书 | 粉丝日志 on R语言进行AES对称加密
+Learn with AI
+搜索...
+ Home
+ AI指令集
+ AI Knowledge Hub
+ Information Technology
+ 前端開發
+ 人工智能
+ 后端开发
+ 程式設計
+ Web框架
+ 數據庫設計
+ 設計模式
+ 操作系統
+ 微服務
+ 數據結構
+ 算法
+ 时间复杂度分析
+空间复杂度分析
+ 算法設計技巧
+ 排序演算法
+ 搜寻演算法
+ 图形演算法
+ 字串演算法
+暴力字串比對
+Knuth-Morris-Pratt演算法
+Boyer-Moore演算法
+Rabin-Karp演算法
+最長共同子序列
+最长上升子序列
+字典樹資料結構
+ 动态图演算法
+ 数值算法
+ 随机算法
+ 逼近算法
+ 在線算法
+ 基礎設施
+ aidocx: 知识撷取小帮手
+
+簡體中文
+  > AI Knowledge Hub > Information Technology > 后端开发 > 算法 > 字串演算法 > Knuth-Morris-Pratt演算法
+Knuth-Morris-Pratt演算法
+习题预习
+User ask:
+给我5题Knuth-Morris-Pratt Algorithm的中文问题
+
+ChatGPT answer:
+解释Knuth-Morris-Pratt Algorithm是什么，并描述其基本思想。
+
+给定一个文本字符串T和一个模式字符串P，请描述如何使用Knuth-Morris-Pratt Algorithm来查找P在T中的出现。
+
+如何实现Knuth-Morris-Pratt Algorithm的failure function？具体说明这个函数的用途和算法原理。
+
+如果文本字符串T非常长，而模式字符串P在其中出现的次数很少，如何优化Knuth-Morris-Pratt Algorithm以提高查找效率？
+
+考虑在字母表∑中搜索模式字符串P的所有循环位移的问题。请描述如何使用Knuth-Morris-Pratt Algorithm来解决这个问题。
+
+说明知识
+User ask:
+以中文说明Knuth-Morris-Pratt Algorithm并举例
+
+ChatGPT answer:
+Knuth-Morris-Pratt (KMP)算法是解决字符串匹配问题的高效算法之一，用于在主串中查找模式串的匹配位置。
+
+算法思想：
+
+KMP算法的基本思想是不回溯主串指针i，而是通过在模式串中预先构建出一个next[]数组，来记录模式串的自匹配情况。当发生不匹配时，i指针不回溯，只需移动一定距离，这样既能提高匹配效率，又能减少匹配次数。
+
+next[]数组的构建：
+
+next[i]表示在i位置之前的子串中，前缀和后缀最长的匹配长度。例如：P = “ABAB”，在i=3(第四个字符)的时候，前缀是"ABA"，后缀是“BA”，并且两者长度相等，所以next[3]=2。
+
+构建next[]数组的过程可以使用动态规划的思想，通过递推的方式求解。该过程可以大致分为以下几步：
+
+1）next[0] = -1；next[1] = 0；
+
+2）从i=2开始逐一计算，设i-1位置的next值为nextval，则有：
+
+(1)如果P[i-1] == P[nextval]，则next[i] = nextval+1；
+
+(2)如果P[i-1] != P[nextval]且nextval != -1，则需要回退，计算next[P[nextval]]；
+
+(3)如果P[i-1] != P[nextval]且nextval = -1，则next[i]=0；
+
+模式串匹配：
+
+当模式串的next[]数组构建完成后，就可以在主串S中查找模式串P的匹配位置，这个过程相对简单：
+
+1）初始化主串指针i=0，模式串指针j=0；
+
+2）如果S[i] == P[j]，则i++,j++；
+
+3）如果S[i] != P[j]，则需要移动模式串指针j，根据next[j]值来决定移动距离；
+
+4）如果j等于模式串P的长度，说明匹配成功，返回主串当前位置i与模式串长度的差值即可；否则继续匹配。
+
+示例：
+
+主串S：BBC ABCDAB ABCDABCDABDE查找文本串中所有匹配模式串的字符
+
+模式串P：ABCDABD
+
+next[]数组：[-1,0,0,0,0,1,2,0]
+
+假设在主串S的第9个位置开始查找，匹配过程如下：
+
+S B C D A B C D A B C D A B D E
+P A B C D A B D
+
+S[9] != P[0]，移动模式串指针，j=next[0]= -1+1=0；
+S B C D A B C D A B C D A B D E
+P A B C D A B D
+
+S[9] == P[0], S[10] == P[1], S[11] == P[2]，经过三轮比较，匹配成功，返回i与模式串长度的差值，即9。
+时间复杂度：
+
+KMP算法的时间复杂度为O(n+m)，其中n和m分别是主串和模式串的长度。相比于朴素的字符串匹配算法，KMP算法具有更高的效率和更低的时间复杂度，适用于大规模字符串匹配问题的解决。
+
+条列重点
+User ask:
+以中文条列Knuth-Morris-Pratt Algorithm的重点
+
+ChatGPT answer:
+KMP算法是一种字符串匹配算法，用于在文本字符串中查找子串的出现位置。
+该算法利用已经匹配的信息来避免在搜索时无用的匹配操作，从而提高效率。
+KMP算法中最重要的部分是构建一个表格，该表格可以告诉我们在匹配失败时应该跳到哪个位置继续搜索。
+构建这个表格的过程可以看作是一个自我匹配的过程，我们利用已经匹配好的信息来寻找一些规律并记录在表格中。
+KMP算法的时间复杂度是O(n+m)，其中n和m分别是文本和子串的长度。
+KMP算法的空间复杂度是O(m)，其中m是子串的长度。
+KMP算法可以应用于多种数据结构和问题，例如字符串匹配、查找重复字串等。
+知识测验
+User ask:
+以中文给我5题Knuth-Morris-Pratt Algorithm的中等难度问题，并在后面列出答案
+
+ChatGPT answer:
+问题： 给定一个文本串s和一个模式串p，在s中查找是否存在一个子串与p匹配。
+答案: KMP算法
+解答:
+KMP算法的基本想法是，当匹配错误发生时，已经匹配的那些字符很可能包含有关我们可以跳过的位置的信息，因此可以使用这些信息进行匹配，跳过一些不必要的字符。
+
+问题：给定一个字符数组和一个模式串，返回模式在字符数组中的所有匹配位置（字符串可以重叠）。
+答案: KMP算法
+解答:
+KMP算法是一种用于查找字符串中子串的快速算法。基于该算法，可以实现一个函数或类，用于在文章中查找指定的关键字，或在编辑器中查找指定的代码片段。
+
+问题：给定一个文本串和一个模式串，将文本串中与模式串匹配的字符替换为另一指定字符。
+答案: KMP算法
+解答:
+KMP算法通常使用在字符串匹配问题上。但是，当使用KMP算法将一个字符串保存到另一个字符串中时，也可以将其视为字符串匹配问题。可以逐个字母遍历字符串，将找到的字符替换成另一个字符。
+
+问题：给定一个文本串和一个模式串，查找和计算文本串中所有匹配模式串的字符。
+答案: KMP算法
+解答:
+KMP算法是一种查找字符串中子串的快速算法。基于该算法，可以实现一个函数或类，用于在文章中查找指定的关键字，或在编辑器中查找指定的代码片段。在计算每个匹配字符时，可以使用额外的数组。
+
+问题：给定一个文本串和一个模式串，查找文本串中所有匹配模式串的字符，并返回匹配的字符个数。
+答案: KMP算法
+解答:
+KMP算法可以用于查找文本串中所有匹配模式串的字符。使用KMP算法时，可以选择是否需要计算和返回所有匹配字符的个数。在使用KMP算法时，可以要求函数或类将计数和返回值分开处理。
+
+<a title="R的极客理想系列文章" href="http://blog.fens.me/series-r/" target="_blank" rel="noopener noreferrer">R的极客理想系列文章</a>，涵盖了R的思想，使用，工具，创新等的一系列要点，以我个人的学习和体验去诠释R的强大。
+
+R语言作为统计学一门语言，一直在小众领域闪耀着光芒。直到大数据的爆发，R语言变成了一门炙手可热的数据分析的利器。随着越来越多的工程背景的人的加入，R语言的社区在迅速扩大成长。现在已不仅仅是统计领域，教育，银行，电商，互联网….都在使用R语言。
+
+要成为有理想的极客，我们不能停留在语法上，要掌握牢固的数学，概率，统计知识，同时还要有创新精神，把R语言发挥到各个领域。让我们一起动起来吧，开始R的极客理想。
+
+<strong>关于作者：</strong>
+<ul>
+ 	<li>张丹，分析师/程序员/Quant: R,Java,Nodejs</li>
+ 	<li>blog: <a title="粉丝日志|跨界的IT博客" href="http://blog.fens.me/" target="_blank" rel="noopener noreferrer">http://blog.fens.me</a></li>
+ 	<li>email: bsspirit@gmail.com</li>
+</ul>
+<strong>转载请注明出处：</strong>
+<a title="用R语言实现字符串快速匹配算法KMP" href="http://blog.fens.me/r-kmp/" target="_blank" rel="noopener noreferrer">http://blog.fens.me/r-kmp/</a>
+
+
+
+<strong>前言</strong>
+
+文字模糊匹配，是在文字处理时，要常用到的一种功能。比如英文，差一个字母，字母的顺序写反了；中文，写了错别字，同音字等，人能很容易能识别问题，可以合并成一个意思，但程序就会把任何的差异理解成是不同文字。
+
+通过文字模糊匹配，我们能够能够找到相似的文字，对笔误进行修正，对论文进行查重，对模型申报进行异常发现等，有很多的应用场景。
+
+
+<strong>目录</strong>
+<ol>
+ 	<li>pinyin包介绍</li>
+ 	<li>一分钟快速使用</li>
+ 	<li>pinyin代码结构</li>
+<li>查看汉字与拼音的字典文件</li>
+<li>自定义字典文件</li>
+</ol>
+<h2>1. pinyin包介绍</h2>
+
+这个 R 语言包粗暴地用拼音取名为 pinyin，作用是把汉字转换成拼音。从 v1.1.3 开始，增加了将汉字转换成四角号码或五笔字型的功能。从 v1.1.4 开始，用户可以指定自己的字典，随意转换。pinyin项目，核心就是把中文汉字与对应的拼音字典做了映射。
+
+该包的作者为赵鹏博士，环境科学、大气科学专业，西交利物浦大学（苏州）健康与环境科学系助理教授，英国利物浦大学荣誉学术成员，英国高等教育学会会员，<a href="https://connect.xjtlu.edu.cn/user/pengzhao/zhcn" target="_blank" rel="noopener noreferrer">博客地址。</a>
+
+本文使用的R的版本为R version 4.2.3，pinyin包的版本1.1.6。
+
+pinyin包，安装过程很简单。
+<pre><code>
+# 安装
+&gt; install.packages("pinyin")
+
+# 加载
+&gt; library(pinyin)
+</code></pre>
+
+pinyin包的项目地址：<a href="https://github.com/pzhaonet/pinyin" target="_blank" rel="noopener noreferrer">https://github.com/pzhaonet/pinyin</a>
+
+<h2>2. 一分钟快速使用</h2>
+pinyin包使用起来非常简单，一行代码就能完成文字向拼音的转换。py()是该项目的主函数。
+
+
+<strong>转载请注明出处：</strong>
+<a title="用R语言实现字符串快速匹配算法KMP" href="http://blog.fens.me/r-kmp/" target="_blank" rel="noopener noreferrer">http://blog.fens.me/r-kmp/</a>
+
+<img class="alignnone size-full wp-image-8388" src="http://blog.fens.me/wp-content/uploads/2016/04/pay50.png" alt="打赏作者" width="600" height="400" />
+
+
