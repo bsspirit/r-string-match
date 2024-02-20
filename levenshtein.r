@@ -1,5 +1,6 @@
 # Levenshtein 莱文斯坦距离
 # 效率不高，仅学习用
+# 解读：http://blog.fens.me/r-levenshtein-distance/
 lev_dist<-function(txt1,txt2){
   len1<-nchar(txt1)
   len2<-nchar(txt2)
