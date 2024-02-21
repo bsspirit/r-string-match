@@ -11,6 +11,6 @@
 
 + [用R语言实现字符串快速匹配算法KMP](http://blog.fens.me/r-kmp/)
 + [用R语言莱文斯坦距离算法Levenshtein Distance](http://blog.fens.me/r-levenshtein-distance/)
-
++ [用R语言汉明距离算法Hamming Distance](http://blog.fens.me/r-hamming-distance/)
 
 
